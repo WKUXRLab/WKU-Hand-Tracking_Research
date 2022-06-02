@@ -15,3 +15,7 @@ To test it you will need an ultraleap hand tracking camera
 + This project uses the HPTK Package from jorgejgnz https://github.com/jorgejgnz/HPTK
 + Also uses the Ultraleap package for Unity https://github.com/ultraleap/UnityPlugin
 
+
+## Demonstration Video
+https://user-images.githubusercontent.com/11185156/171731551-2e6221fc-fe03-4fd6-8c46-1b9741e6f2e4.mp4
+
